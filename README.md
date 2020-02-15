@@ -14,3 +14,19 @@ These were scripts that were used to implement my thesis in bachelor degree:
 
 I hope these scripts can help students to enter research on geophysical inversion. 
 Any updates about these scripts can be seen in [my blog](https://mheriyanto.wordpress.com/mh1dmt/): https://mheriyanto.wordpress.com/mh1dmt.
+
+
+## License
+MH1DMT is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/MH1DMT/blob/master/LICENSE) file for details).
+
+## Citation
+If you find this project useful for your research, please use the following BibTeX entry.
+    
+    @phdthesis{phdthesis,
+    author = {Heriyanto, Mohammad},
+    year = {2016},
+    month = {10},
+    pages = {},
+    title = {1-D Magnetotelluric Data Inversion Using Modified Very Fast Simulated Annealing (MVFSA)},
+    doi = {10.13140/RG.2.2.35938.43209}
+    }
