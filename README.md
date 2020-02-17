@@ -23,15 +23,19 @@ Any updates about these scripts can be seen in [my blog](https://mheriyanto.word
 <img src="https://mheriyanto.files.wordpress.com/2017/04/data.png?w=640" width="100%">
 </p>
 
-<ins>**Inversion results**</ins>: LM, Ridge Regression (RR), SVD, SA, VFSA, PSO, GA, and MVFSA
+<ins>**Inversion results**</ins>: LM, Ridge Regression (RR), SVD, and MVFSA
 
 <p align="center">
 <img src="https://mheriyanto.files.wordpress.com/2017/04/lm-rr-svd-mvfsa.png" width="100%">
 </p>
 
+<ins>**Inversion results**</ins>: PSO, GA, and MVFSA
+
 <p align="center">
 <img src="https://mheriyanto.files.wordpress.com/2017/04/pso-ga-mvfsa.png" width="100%">
 </p>
+
+<ins>**Inversion results**</ins>: SA, VFSA, and MVFSA
 
 <p align="center">
 <img src="https://mheriyanto.files.wordpress.com/2017/04/sa-vfsa-mvfsa.png" width="100%">
@@ -39,13 +43,35 @@ Any updates about these scripts can be seen in [my blog](https://mheriyanto.word
 
 ## Field Data
 
+<ins>**Data: Sundar Pahari, Dhanbad, India**</ins>
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH1DMT/blob/master/field_data/results/data.png" width="100%">
+</p>
+
 <ins>**Model and results**</ins>
 
 <p align="center">
-<img src="https://mheriyanto.files.wordpress.com/2017/04/data.png?w=640" width="100%">
+<img src="https://github.com/mheriyanto/MH1DMT/blob/master/field_data/results/table.png" width="100%">
 </p>
 
-<ins>**Inversion results**</ins>: LM, Ridge Regression (RR), SVD, SA, VFSA, PSO, GA, and MVFSA
+<ins>**Inversion results**</ins>: LM, Ridge Regression (RR), SVD, and MVFSA
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH1DMT/blob/master/field_data/results/lm-rr-svd-mvfsa.png" width="100%">
+</p>
+
+<ins>**Inversion results**</ins>: PSO, GA, and MVFSA
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH1DMT/blob/master/field_data/results/pso-ga-mvfsa.png" width="100%">
+</p>
+
+<ins>**Inversion results**</ins>: SA, VFSA, and MVFSA
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH1DMT/blob/master/field_data/results/sa-vfsa-mvfsa.png" width="100%">
+</p>
 
 ## License
 MH1DMT is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/MH1DMT/blob/master/LICENSE) file for details).
