@@ -6,7 +6,7 @@
 [![HitCount](http://hits.dwyl.com/mheriyanto/MH1DMT.svg)](http://hits.dwyl.com/mheriyanto/MH1DMT)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
 
-# MH1DMT
+## MH1DMT
 MH1DMT is inversion software using LM (Levenberg-Marquardt), SVD (Singular Value Decomposition), SA (Simulated Annelaing), VFSA (Very Fast Simulated Annelaing), and MVFSA (Modified Very Fast Simulated Annelaing) of one-dimension MT resistivity in MATLAB.
 
 These were scripts that were used to implement my thesis in bachelor degree:
@@ -15,13 +15,15 @@ These were scripts that were used to implement my thesis in bachelor degree:
 I hope these scripts can help students to enter research on geophysical inversion. 
 Any updates about these scripts can be seen in [my blog](https://mheriyanto.wordpress.com/mh1dmt/): https://mheriyanto.wordpress.com/mh1dmt.
 
+## Synthetic Data
+
 <ins>**Model and results**</ins>
 
 <p align="center">
 <img src="https://mheriyanto.files.wordpress.com/2017/04/data.png?w=640" width="100%">
 </p>
 
-<ins>**Inversion results**</ins>
+<ins>**Inversion results**</ins>: LM, Ridge Regression (RR), SVD, SA, VFSA, PSO, GA, and MVFSA
 
 <p align="center">
 <img src="https://mheriyanto.files.wordpress.com/2017/04/lm-rr-svd-mvfsa.png" width="100%">
@@ -34,6 +36,16 @@ Any updates about these scripts can be seen in [my blog](https://mheriyanto.word
 <p align="center">
 <img src="https://mheriyanto.files.wordpress.com/2017/04/sa-vfsa-mvfsa.png" width="100%">
 </p>
+
+## Field Data
+
+<ins>**Model and results**</ins>
+
+<p align="center">
+<img src="https://mheriyanto.files.wordpress.com/2017/04/data.png?w=640" width="100%">
+</p>
+
+<ins>**Inversion results**</ins>: LM, Ridge Regression (RR), SVD, SA, VFSA, PSO, GA, and MVFSA
 
 ## License
 MH1DMT is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/MH1DMT/blob/master/LICENSE) file for details).
