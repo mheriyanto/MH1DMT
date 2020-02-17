@@ -15,6 +15,25 @@ These were scripts that were used to implement my thesis in bachelor degree:
 I hope these scripts can help students to enter research on geophysical inversion. 
 Any updates about these scripts can be seen in [my blog](https://mheriyanto.wordpress.com/mh1dmt/): https://mheriyanto.wordpress.com/mh1dmt.
 
+<ins>**Model and results**</ins>
+
+<p align="center">
+<img src="https://mheriyanto.files.wordpress.com/2017/04/data.png?w=640" width="100%">
+</p>
+
+<ins>**Inversion results**</ins>
+
+<p align="center">
+<img src="https://mheriyanto.files.wordpress.com/2017/04/lm-rr-svd-mvfsa.png" width="100%">
+</p>
+
+<p align="center">
+<img src="https://mheriyanto.files.wordpress.com/2017/04/pso-ga-mvfsa.png" width="100%">
+</p>
+
+<p align="center">
+<img src="https://mheriyanto.files.wordpress.com/2017/04/sa-vfsa-mvfsa.png" width="100%">
+</p>
 
 ## License
 MH1DMT is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/MH1DMT/blob/master/LICENSE) file for details).
