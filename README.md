@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
 
 ## MH1DMT
-MH1DMT is inversion software using LM (Levenberg-Marquardt), SVD (Singular Value Decomposition), SA (Simulated Annelaing), VFSA (Very Fast Simulated Annelaing), and MVFSA (Modified Very Fast Simulated Annelaing) of one-dimension MT resistivity in MATLAB.
+MH1DMT is inversion software using LM (Levenberg-Marquardt), SVD (Singular Value Decomposition), SA (Simulated Annealing), VFSA (Very Fast Simulated Annealing), and MVFSA (Modified Very Fast Simulated Annealing) of one-dimension magnetotellurics (MT) in MATLAB 
 
 These were scripts that were used to implement my thesis in bachelor degree:
 **1-D Magnetotelluric Data Inversion using Modified Very Fast Simulated Annealing (MVFSA). Physics, Institut Teknologi Bandung (ITB)**. DOI: 10.13140/RG.2.2.35938.43209. ([**PDF: full article**](https://digilib.itb.ac.id/index.php/gdl/view/35195/), [**cover page**](https://www.researchgate.net/publication/313360430_1-D_Magnetotelluric_Data_Inversion_Using_Modified_Very_Fast_Simulated_Annealing_MVFSA)). I defensed this thesis on Department of Physics, Institut Teknologi Bandung (ITB). October, 2016 ([**SLIDE**](https://figshare.com/articles/Inversi_Data_Magnetotellurik_1-D_dengan_Metode_Modified_Very_Fast_Simulated_Annealing_MVFSA_/11860548)).
