@@ -1,19 +1,41 @@
-@unpublished{bscthesis,
-author = {Heriyanto, Mohammad},
-year = {2016},
-month = {10},
-pages = {1--100},
-title = {{1-D Magnetotelluric Data Inversion Using Modified Very Fast Simulated Annealing (MVFSA)}},
-doi = {10.13140/RG.2.2.35938.43209}
-}
-
-@techreport{Heriyanto2020,
-author = {Mohammad Heriyanto},
-title = {{Inversi Data Magnetotellurik 1-D dengan Metode Modified Very Fast Simulated Annealing (MVFSA)}},
-year = {2020},
-month = {2},
-pages = {1--56},
-url = {https://figshare.com/articles/Inversi_Data_Magnetotellurik_1-D_dengan_Metode_Modified_Very_Fast_Simulated_Annealing_MVFSA_/11860548},
-doi = {10.6084/m9.figshare.11860548.v1}
-}
- 
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Heriyanto"
+  given-names: "Mohammad"
+  orcid: "https://orcid.org/0000-0003-2182-2866"
+title: "MH1DMT"
+version: v0.0.1
+date-released: 2020
+url: "https://github.com/mheriyanto/MH1DMT"
+preferred-citation:
+  type: unpublished
+  authors:
+  - family-names: "Heriyanto"
+    given-names: "Mohammad"
+    orcid: "https://orcid.org/0000-0003-2182-2866"
+  doi: "10.13140/RG.2.2.35938.43209"
+  journal: "Institut Teknologi Bandung"
+  month: 10
+  start: 1 # First page number
+  end: 100 # Last page number
+  title: "1-D Magnetotelluric Data Inversion Using Modified Very Fast Simulated Annealing (MVFSA)"
+  issue: 1
+  volume: 1
+  year: 2016
+preferred-citation:
+  type: techreport
+  authors:
+  - family-names: "Heriyanto"
+    given-names: "Mohammad"
+    orcid: "https://orcid.org/0000-0003-2182-2866"
+  doi: "10.6084/m9.figshare.11860548.v1"
+  url: "https://figshare.com/articles/Inversi_Data_Magnetotellurik_1-D_dengan_Metode_Modified_Very_Fast_Simulated_Annealing_MVFSA_/11860548"
+  journal: "Institut Teknologi Bandung"
+  month: 2
+  start: 1 # First page number
+  end: 56 # Last page number
+  title: "Inversi Data Magnetotellurik 1-D dengan Metode Modified Very Fast Simulated Annealing (MVFSA)"
+  issue: 1
+  volume: 1
+  year: 2020
