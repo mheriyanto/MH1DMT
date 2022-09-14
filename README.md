@@ -81,22 +81,26 @@ If you find this project useful for your research, please use the following BibT
 
 **For Article**
 
-    @phdthesis{phdthesis,
+```BibTeX
+@phdthesis{phdthesis,
     author = {Heriyanto, Mohammad},
     year = {2016},
     month = {10},
     pages = {},
     title = {1-D Magnetotelluric Data Inversion Using Modified Very Fast Simulated Annealing (MVFSA)},
     doi = {10.13140/RG.2.2.35938.43209}
-    }
+}
+```
 
 **For Slide**
 
-    @article{Heriyanto2020,
+```BibTeX
+@article{Heriyanto2020,
     author = "Mohammad Heriyanto",
     title = "{Inversi Data Magnetotellurik 1-D dengan Metode Modified Very Fast Simulated Annealing (MVFSA)}",
     year = "2020",
     month = "2",
     url = "https://figshare.com/articles/Inversi_Data_Magnetotellurik_1-D_dengan_Metode_Modified_Very_Fast_Simulated_Annealing_MVFSA_/11860548",
     doi = "10.6084/m9.figshare.11860548.v1"
-    }
+}
+```
